@@ -1,1 +1,2 @@
-# Data-analytics-projects
+# Customer Segmentation bussiness case
+## The case
