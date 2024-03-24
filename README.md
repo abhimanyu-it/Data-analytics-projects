@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-A **consumer good company** which specialises in wide spectrum of products has collected **b2c demographic** customer data of approx. 8000 customers related to their products and further this particular data is **segmented into segments** by data science team by using unsupervised . As a data analyst in **product team** your task is to:
+A **consumer good company** which specialises in wide spectrum of products has collected **b2c demographic** customer data of approx. 8000 customers related to their products and further this particular data is **segmented into segments** by data science team. As a data analyst in **product team** your task is to:
 
 i)	 Distribution of room type and neighbourhood groups.
 ii)	 Geographical distribution of listings across different locations in nyc.<br>
