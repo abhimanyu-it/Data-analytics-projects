@@ -6,7 +6,7 @@ A **consumer good company** which specialises in wide spectrum of products has c
 
 i)	 Distribution of room type and neighbourhood groups.<br>
 ii)	 Geographical distribution of listings across different locations in nyc.<br>
-iii) Key performing indicators for hosts.<br>.
+iii) Key performing indicators for hosts.<br>
 iv)	 Important features influencing rental prices and occupancy
 
 At end you have to **draw conclusions** on the insights gathered from the exploratory data analysis process.
